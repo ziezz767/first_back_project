@@ -22,6 +22,7 @@
 *   **비즈니스 로직 분리**: 도메인 로직과 서비스 로직을 명확히 분리하여 테스트가 용이한 구조 설계
 
 ## 📂 프로젝트 구조
+```text
 src/main/java/com/example/firstproject
 ├── controller/      # 사용자의 요청(API)을 받고 응답을 반환하는 계층
 ├── service/         # 비즈니스 로직(핵심 기능)을 처리하는 계층
